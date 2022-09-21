@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "589801221706",
+    "project_id": "calc-android-adffc",
+    "storage_bucket": "calc-android-adffc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589801221706:android:95878e91ba41a933c540b3",
+        "android_client_info": {
+          "package_name": "com.example.tipcalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589801221706-jj6s00lttg06sg0qt3vcuvv01vs4rsfq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApSRl8hVzxvk2u5_YH9FriWDuRML6RtHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589801221706-jj6s00lttg06sg0qt3vcuvv01vs4rsfq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
